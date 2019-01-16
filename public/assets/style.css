@@ -6,7 +6,7 @@ html {height: 100%;}
 body {
   position: relative;
   height: 100%;
-  background-image: url('image.jpeg');
+  background-image: url('image2.jpeg');
   background-image: no-repeat;
   /*background: rgb(128,128,128);*/
   /*font-family: 'Roboto', sans-serif;*/
@@ -17,7 +17,7 @@ body {
 }
 h1 {
   font-size: 50px;
-  color: rgb(128,128,128);
+  color: rgb(53,78,160);
 }
 button, select, input {
   font-family: 'Roboto', sans-serif;
